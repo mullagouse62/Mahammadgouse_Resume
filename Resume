@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mulla Mahammadgouse Resume</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 30px auto;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            background-color: #1e3a5f;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+            border-radius: 8px 8px 0 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            margin: 5px 0;
+            font-size: 1.1em;
+        }
+        section {
+            padding: 20px 0;
+        }
+        h2 {
+            color: #1e3a5f;
+            border-bottom: 2px solid #1e3a5f;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        .skills ul, .professional-experience ul, .azure-cloud ul, .projects ul, .achievements ul, .certifications ul {
+            padding-left: 20px;
+        }
+        .skills ul li, .professional-experience ul li, .azure-cloud ul li, .projects ul li, .achievements ul li, .certifications ul li {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        .skills, .professional-experience, .azure-cloud, .projects, .achievements, .certifications, .education, .personal-info {
+            margin-bottom: 20px;
+        }
+        .container h3 {
+            font-size: 1.4em;
+            color: #2980b9;
+        }
+        .declaration {
+            padding-top: 20px;
+        }
+        footer {
+            text-align: center;
+            color: #666;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mulla Mahammadgouse</h1>
+        <p>Phone: +91 8247439486 | Email: <a href="mailto:mulla.mahammadgouse8@gmail.com" style="color: #ffffff;">mulla.mahammadgouse8@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/mulla-mahammadgouse" target="_blank" style="color: #ffffff;">https://www.linkedin.com/in/mulla-mahammadgouse</a></p>
+    </header>
+
+    <div class="container">
+        <section class="objective">
+            <h2>Objective</h2>
+            <p>A System Engineer with expertise in Azure infrastructure, virtual machine management, and network security. Seeking to leverage my technical skills, problem-solving abilities, and experience in delivering high-performance solutions in a dynamic and challenging environment.</p>
+        </section>
+
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li><strong>DevOps & Cloud Technologies:</strong> Azure, GitHub, Jenkins</li>
+                <li><strong>Networking & Security:</strong> TCP/IP, VPN, DNS, Firewalls</li>
+                <li><strong>Operating Systems:</strong> Linux, Windows Server</li>
+                <li><strong>Version Control:</strong> Git, GitHub</li>
+                <li><strong>Programming Languages:</strong> Python, Basic Core Java</li>
+                <li><strong>Web Technologies:</strong> HTML, CSS, Basic JavaScript</li>
+                <li><strong>IT Support & Troubleshooting:</strong> System Administration, Server Management</li>
+                <li><strong>Documentation:</strong> Experienced in creating documentation on JIRA Confluence</li>
+                <li><strong>Methodologies:</strong> Agile</li>
+            </ul>
+        </section>
+
+        <section class="professional-experience">
+            <h2>Professional Experience</h2>
+            <h3>Tata Consultancy Services (Dec 2021 - Present)</h3>
+            <p><strong>Position:</strong> Cloud Engineer (Apr 2022 - Present)</p>
+            <ul>
+                <li>Managing network security systems, including firewalls and VPNs, and improving security response times.</li>
+                <li>Monitoring and administering both Linux and Windows servers, automating alerts and issue resolution for optimal performance and uptime.</li>
+                <li>Providing technical support and troubleshooting, resolving incidents in alignment with service level agreements (SLAs), and maintaining a high compliance rate.</li>
+                <li>Experienced in creating documentation on JIRA Confluence, enhancing project tracking and team collaboration.</li>
+            </ul>
+        </section>
+
+        <section class="azure-cloud">
+            <h2>Azure Cloud Responsibilities</h2>
+            <ul>
+                <li>Provisioning and decommissioning virtual machines, ensuring efficient resource utilization.</li>
+                <li>Implementing Virtual Machine Scale Sets according to business requirements.</li>
+                <li>Performed virtual machine and disk resizing for performance optimization.</li>
+                <li>Configured Virtual Networks, including peering and custom route tables.</li>
+                <li>Set up Network Security Groups, Virtual Network Gateways, and Azure Storage.</li>
+                <li>Managed custom image creation, deployment, and Azure backup and restore operations.</li>
+                <li>Applied knowledge of Azure Active Directory for identity and access management.</li>
+                <li>Followed advisory recommendations and provided cost estimation to customers.</li>
+            </ul>
+        </section>
+
+        <section class="projects">
+            <h2>Projects</h2>
+            <p><strong><a href="https://mullagouse62.github.io/ar_architects-anil/" target="_blank" style="color: #2980b9;">AR Architects Website</a>:</strong></p>
+            <ul>
+                <li>Created a website for AR Architects, designed and developed using HTML, CSS, and JavaScript.</li>
+                <li>Implemented responsive design to ensure compatibility across different devices.</li>
+                <li>Focused on user experience (UX) principles to deliver an intuitive and visually appealing interface.</li>
+            </ul>
+        </section>
+
+        <section class="achievements">
+            <h2>Key Achievements</h2>
+            <ul>
+                <li>Received multiple appreciations from clients and architects as a Cloud DevOps Engineer, leading to significant recognition and professional growth.</li>
+                <li>Recognized with multiple "Star of the Month" and "On the Spot" awards for outstanding performance in cloud migrations and system engineering.</li>
+            </ul>
+        </section>
+
+        <section class="certifications">
+            <h2>Certifications</h2>
+            <ul>
+                <li>Microsoft Certified: Azure Fundamentals</li>
+                <li>Python and C – LinkedIn Learning</li>
+                <li>Programming Basics – Great Learning Academy</li>
+                <li>Problem Solving and Programming in Python (Phase-2) – APSSDC</li>
+                <li>Domestic Data Entry Operator – SkillsTrainer</li>
+            </ul>
+        </section>
+
+        <section class="education">
+            <h2>Education</h2>
+            <p><strong>Bachelor of Technology (B.Tech) in Electrical and Electronics Engineering</strong></p>
+            <p>Chaitanya Bharathi Institute of Technology, Proddatur (2021)</p>
+        </section>
+
+        <section class="personal-info">
+            <h2>Personal Information</h2>
+            <p><strong>Languages Known:</strong> English, Hindi, Telugu, Urdu</p>
+            <p><strong>Address:</strong> Chagalamarri, Nandyal district, Andhra Pradesh, India-518553</p>
+        </section>
+
+        <section class="declaration">
+            <h2>Declaration</h2>
+            <p>I hereby declare that all the information provided above is accurate to the best of my knowledge.</p>
+ </section><p><strong>(Mulla Mahammadgouse)</strong></p>
+        
+    </div>
+
+    <footer>
+        <p>© 2024 Mulla Mahammadgouse. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
